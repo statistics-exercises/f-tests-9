@@ -14,7 +14,7 @@ This reminder of the theory aside lets return to the question of the statistic w
 
 1. compute a sample variance for each of the t individual samples using:
 
-![](https://render.githubusercontent.com/render/math?math=S_j^2=\frac{n_j}{n_j-1}\left[\frac{1}{n_j}\sum_{i=1}^{n_j}X_i^2-\left(\frac{1}{n_j}\sum_{i=1}^{n_j}X_i\right)\right])
+![](https://render.githubusercontent.com/render/math?math=S_j^2=\frac{n_j}{n_j-1}\left[\frac{1}{n_j}\sum_{i=1}^{n_j}X_i^2-\left(\frac{1}{n_j}\sum_{i=1}^{n_j}X_i\right)^2\right])
 
 where ![](https://render.githubusercontent.com/render/math?math=n_j) is the number of data points in the jth set of samples
 
