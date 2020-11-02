@@ -22,7 +22,7 @@ where ![](https://render.githubusercontent.com/render/math?math=n_j) is the numb
 
 ![](https://render.githubusercontent.com/render/math?math=S^2=\frac{SS_E}{\sum_{j=1}^t(n_j-1)}=\frac{\sum_{j=1}^t(n_j-1)s_j^2}{\sum_{j=1}^t(n_j-1)})
 
-It is important to note that S here is just an expression for the common variance that we learned about last week when we were learning about hypothesis tests for doing a comparison of means* with small sample sizes.  Here though it is a common variance for t different distributions as opposed to two.  
+It is important to note that S here is just an expression for the common variance that we learned about last week when we were learning about hypothesis tests for doing a comparison of means with small sample sizes.  Here though it is a common variance for t different distributions as opposed to two.  
 
 __Your task is thus to complete the functions in the cell on the left for computing the error sum of squares and the common variance for the data in the file called `mydata.dat`.__  
 
